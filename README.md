@@ -20,21 +20,31 @@ Consists in develop a program that implements the game entitled “Discover the 
 1. [Arduino](https://www.arduino.cc/en/software)
 
 ## To run this project:
-To run this project you will need an Arduino UNO and some materials:
-- 9 Leds
-- USB cable for Arduino UNO
-- 15 Male-male jumper cables 
-- Breadboard
-- 9 Resistences
-- 2 Pressure buttons
-- (I hope I didn't forget anything xd)<br>
+[WARNING] Arduino IDE must be installed<br>
+You have two ways to run this project:
+1. Using an Arduino UNO and some materials:
+   * 9 Leds
+   * USB cable for Arduino UNO
+   * 15 Male-male jumper cables 
+   * Breadboard
+   * 9 Resistences
+   * 2 Pressure buttons
+   * (I hope I didn't forget anything xd)<br>
+   Then assemble the equipment as shown in the figure:
+    ![image](https://i.imgur.com/lunKMbo.png)<br>
+   Download the code on "src" folder
+   Open Arduino IDE and paste the code there
+   Do some configs to connect your Arduino to PC 
+   Finally run the code
 
-Then assemble the equipment as shown in the figure:
-![image](https://i.imgur.com/lunKMbo.png)
-
+2. Using [Tinkercad](https://www.tinkercad.com/):<br>
+   * Create an account on Tinkercad
+   * Create a project, replicate the image of Arduino and paste the code
+   * Finally run the program<br>
+     ![image](https://i.imgur.com/czUvxpx.png)<br>
 
 ## Notes important to read
--
+- To understand how to play the game read the Statement (or the Report)
 
 ## Authors:
 - [João Silva](https://github.com/ikikara)
