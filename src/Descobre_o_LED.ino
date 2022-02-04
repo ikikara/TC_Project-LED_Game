@@ -1,4 +1,4 @@
-int Leds[2][9] ={ 
+int Leds[2][9] = { 
   {2,3,4,5,6,7,8,9,10} ,
   {LOW,LOW,LOW,LOW,LOW,LOW,LOW,LOW,LOW}
 };
@@ -10,8 +10,7 @@ int count = 0;
 
 bool status1 = false, previous1 = false;
 
-void setup()
-{
+void setup(){
   Serial.begin(9600);
   for(int LED=0;LED<9;LED++){
    pinMode(Leds[0][LED], OUTPUT);
@@ -22,8 +21,7 @@ void setup()
   
 }
 
-void loop()
-{
+void loop(){
 
 // Acender os LEDs(Funciona corretamente? Sim)
   
