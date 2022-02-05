@@ -48,3 +48,4 @@ You have two ways to run this project:
 
 ## Authors:
 - [João Silva](https://github.com/ikikara)
+- [Mário Lemos](https://github.com/MrMarito)
