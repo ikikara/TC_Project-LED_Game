@@ -47,4 +47,4 @@ You have two ways to run this project:
 - To understand how to play the game read the Statement (or the Report)
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
